@@ -1,9 +1,9 @@
 # Hello World 
-This is my home page! My name is Chrystal Pineda and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering.
+This is my home page! My name is Chrystal Pineda and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering. I am 21 years old, I live in Los Angeles and have a yorkie named Dylan.
 
 ## Computer Science Projects 
 
-My Github page is http://github.com/chrystalpineda.
+My Github page is [chrystalpineda](http://github.com/chrystalpineda)
 
 ### CPSC 120
 
